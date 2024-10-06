@@ -7,7 +7,10 @@ dependencies:
   - pandas
   - seaborn
   - statsmodels
-  - r-base=4.1.3
+  - scikit-learn
+  - tensorflow
+  - r-base
+  - r-essentials
   - r-tidyverse
   - r-psych
   - r-pracma
